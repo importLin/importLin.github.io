@@ -13,11 +13,11 @@ This is Haiwei LIN. I am currently pursuing my Ph.D. degree in the Graduate Scho
 
 ### Journal Articles
 
-- **Haiwei Lin**, Shoko Imaizumi, and Hitoshi Kiya, “Privacy-Preserving ConvMixer Without Any Accuracy Degradation Using Compressible Encrypted Images,” Information, vol.15, no.723, November 2024.
+- **Haiwei Lin**, Shoko Imaizumi, and Hitoshi Kiya, “[Privacy-Preserving ConvMixer Without Any Accuracy Degradation Using Compressible Encrypted Images](https://www.mdpi.com/2078-2489/15/11/723),” Information, vol.15, no.723, November 2024.
 
 ### Conference Papers
 
-- **Haiwei Lin**, Shoko Imaizumi, and Hitoshi Kiya, “Effective Fine-Tuning of Vision Transformers with Low-Rank Adaptation for Privacy-Preserving Image Classification,” in Proc. of IEEE Global Conference on Consumer Electronics, Osaka, Japan, 26th September, 2025. (**GCCE 2025 Oral**)
+- **Haiwei Lin**, Shoko Imaizumi, and Hitoshi Kiya, “[Effective Fine-Tuning of Vision Transformers with Low-Rank Adaptation for Privacy-Preserving Image Classification](https://arxiv.org/abs/2507.11943),” in Proc. of IEEE Global Conference on Consumer Electronics, Osaka, Japan, 26th September, 2025. (**GCCE 2025 Oral**)
 
 ### Conference Papers (Japanese)
 
