@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Haiwei LIN. Currently, I am a Ph.D. student at Chiba University under the supervision of Assoc. Prof. [Shoko Imaizumi](https://msp.chiba-u.net/shoko_imaizumi/). My research focuses on visual privacy protection, exploring methods to generate visually uninformative images / videos that remain recognizable to AI models. These works are supported by [JST BOOST](https://www.jst.go.jp/jisedai/boost-s/en/about/index.html).
+This is Haiwei LIN. I am currently pursuing my Ph.D. degree in the Graduate School of Informatics at Chiba University, under the supervision of Assoc. Prof. [Shoko Imaizumi](https://msp.chiba-u.net/shoko_imaizumi/). My research focuses on visual privacy protection, exploring methods to generate visually uninformative images / videos that remain recognizable to AI models. These works are supported by [JST BOOST](https://www.jst.go.jp/jisedai/boost-s/en/about/index.html).
 
 ## Publications
 
